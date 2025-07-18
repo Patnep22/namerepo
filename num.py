@@ -1,0 +1,6 @@
+x =int(2)
+y =float(3.5)
+z =complex(3+5)
+print(x)
+print(y)
+print(z)
